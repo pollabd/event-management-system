@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "driver": "PostgreSQL",
+      "name": "docker",
+      "database": "mydb",
+      "username": "user",
+      "connectString": "postgres://user:password@localhost:5432/mydb"
+    }
+  ]
+}
